@@ -5,7 +5,11 @@ Interactive JS Map for website
 
 # USAGE
 Create an Object Instance
-var map = new IntMap();
+
+	<script src="jquery-1.8.2.min.js"></script>
+	<script type="text/javascript">
+		var map = new IntMap();
+	</script>
 
 # Default Options
     {
