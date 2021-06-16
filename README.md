@@ -8,7 +8,7 @@ var map = new IntMap();
 # Default Options
     {
 		'header_text' : 'AIT&M - Interactive JS Map',
-    'company_name' : 'Your Company',
+    	'company_name' : 'Your Company',
 		'company_logo' : 'images/your_company_logo.png', 
 		'company_logo_alt' : 'Your Company Around the World.',
 		'append_to' : 'body',
