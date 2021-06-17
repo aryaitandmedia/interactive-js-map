@@ -1,7 +1,7 @@
 
 ![jsmap](https://user-images.githubusercontent.com/84500963/122356844-e92a0a80-cf72-11eb-8ffd-914081d13bde.gif)
 
-You can contact <a href="https://www.aryaitandmedia.com/?get-quote" target="_blank">here</a> to make a purchase
+You can contact <a href="https://www.aryaitandmedia.com/?get-quote-map" target="_blank">here</a> to make a purchase
 
 <a href="https://www.aryaitandmedia.com/demo/map" target="_blank">DEMO</a>
 
