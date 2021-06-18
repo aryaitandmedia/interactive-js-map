@@ -1,4 +1,7 @@
 
+# Interactive JS Map
+Showcase your business around the world with interactive js map
+
 ![jsmap](https://user-images.githubusercontent.com/84500963/122356844-e92a0a80-cf72-11eb-8ffd-914081d13bde.gif)
 
 You can contact <a href="https://www.aryaitandmedia.com/?get-quote-map" target="_blank">here</a> to make a purchase
@@ -10,9 +13,6 @@ You can contact <a href="https://www.aryaitandmedia.com/?get-quote-map" target="
 
 
 https://www.fiverr.com/futurist_amit/place-an-interactive-js-map-into-any-website
-
-# arya-interactive-js-map
-Interactive JS Map for website
 
 # USAGE
 Create an Object Instance
