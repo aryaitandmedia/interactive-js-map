@@ -62,9 +62,9 @@ Create an Object Instance
 # Override Options
 	 var map = new IntMap({
 		    'header_text' : 'Your Header',
+		     'company_name' : 'Your Company',
 		    'company_logo' : 'your_logo_path/your_logo.png', 
 		    'company_logo_alt' : 'Your Company Around the World.',
-		    'company_name' : 'Your Company',
 		    'append_to' : 'body',
 		    'style' : '',
 		    'continent' : {
